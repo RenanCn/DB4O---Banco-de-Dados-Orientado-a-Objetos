@@ -189,7 +189,7 @@
             this.Controls.Add(this.maskedTextBox1);
             this.Controls.Add(this.label1);
             this.Name = "Fornecedor";
-            this.Text = "Fornecedor";
+            this.Text = "Fornecedores";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
