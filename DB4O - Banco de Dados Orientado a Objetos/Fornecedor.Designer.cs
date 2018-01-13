@@ -57,7 +57,7 @@
             // maskedTextBox1
             // 
             this.maskedTextBox1.Location = new System.Drawing.Point(16, 34);
-            this.maskedTextBox1.Mask = "00.000.000/0000-00";
+            this.maskedTextBox1.Mask = "00,000,000/0000-00";
             this.maskedTextBox1.Name = "maskedTextBox1";
             this.maskedTextBox1.Size = new System.Drawing.Size(140, 22);
             this.maskedTextBox1.TabIndex = 1;
@@ -156,7 +156,7 @@
             this.dataGridView1.Location = new System.Drawing.Point(217, 12);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(599, 322);
+            this.dataGridView1.Size = new System.Drawing.Size(598, 322);
             this.dataGridView1.TabIndex = 23;
             // 
             // button5
@@ -173,7 +173,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(830, 346);
+            this.ClientSize = new System.Drawing.Size(824, 346);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);

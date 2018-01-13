@@ -50,7 +50,6 @@ namespace DB4O___Banco_de_Dados_Orientado_a_Objetos
         {
             InitializeComponent();
             exibir();
-            limpar();
         }
 
         private void button1_Click(object sender, EventArgs e)
